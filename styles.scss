@@ -1,0 +1,29 @@
+/*-- scss:defaults --*/
+
+// Import Google fonts
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+// Colors (define your palette)
+$taupe: #4A4238;
+$cream: #F6E7CB;
+$blue: #508484;
+$pink: #DD9787;
+$coral: #DD9787;
+$orange: #ad7237;
+$green: #53917E;
+$black: #000000;
+$charcoal: #36454F;
+$mint: #C4E7D4;
+
+// Assign to Quarto Sass variables
+$navbar-bg: $blue;        // navbar background
+$navbar-fg: $cream;   // navbar text/icons
+$navbar-hl: $pink;       // navbar hover highlight
+$body-bg: $mint;    // page background
+$body-color: $taupe;        // page text
+$footer-bg: $cream;        // footer background
+$link-color: $orange;      // hyperlinks
+$code-bg: $blue;          // inline code background
+$code-color: $orange;      // inline code text
+
+/*-- scss:rules --*/

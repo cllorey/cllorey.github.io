@@ -15,10 +15,8 @@ website:
 
 format:
   html:
-    theme: 
-      light: minty
-      dark: solar
-    css: styles.css
+    theme: styles.scss
+    mainfont: Montserrat
     toc: true
     page-layout: full
 
